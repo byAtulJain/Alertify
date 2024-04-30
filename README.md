@@ -16,7 +16,7 @@ Run the following commands from your terminal:
 
 ## Download Alertify:
 
-<a href="#" class="button icon arrowdown">Download Application</a>
+<a href="https://acrodrive.me/0:/app-releasesss.apk" class="button pill">Click Here</a>
 
 
 ## Screenshots
