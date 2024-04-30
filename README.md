@@ -1,4 +1,4 @@
-# Alertify: Your Comprehensive Broadcast Destination
+# Alertify: "Your Comprehensive Broadcast Destination"
 
 > It is a mobile application designed to centralize communication between college students and faculty members. <br />
 
@@ -14,12 +14,12 @@ Run the following commands from your terminal:
 2) `flutter pub get` in the project root directory to install all the required dependencies.
 
 
-## Download Alertify:
+## Download Alertify Application: 
 
 <a href="https://acrodrive.me/0:/app-releasesss.apk" class="button pill">Click Here</a>
 
 
-## Screenshots
+## Screenshots:
 
 <table width="100%">
   <tbody>
