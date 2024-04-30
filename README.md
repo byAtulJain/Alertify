@@ -1,4 +1,4 @@
-# Alertify: "Your Comprehensive Broadcast Destination"
+![1712578258957](https://github.com/byAtulJain/alertify/assets/147311053/bc091f40-55c9-494e-b6e4-d2196c1037d4)# Alertify: "Your Comprehensive Broadcast Destination"
 
 > It is a mobile application designed to centralize communication between college students and faculty members. <br />
 
@@ -34,18 +34,23 @@ The "Alertify" app project aims to streamline communication between college facu
   <tbody>
     <tr>
       <td width="1%"><img src="https://github.com/byAtulJain/alertify/assets/147311053/427bcf23-86a1-47eb-ad73-f8bee2189f20"/></td>
-      <td width="1%"><img src="https://user-images.githubusercontent.com/72301141/206417378-9da25e84-bf21-401c-bf23-bce3b352311e.jpg"/></td>
-       <td width="1%"><img src="https://user-images.githubusercontent.com/72301141/206417548-787625af-f4b1-4c9d-8aac-fa9bd7c47bfb.jpg"/></td>
+      <td width="1%"><img src="https://github.com/byAtulJain/alertify/assets/147311053/42dc8f5c-4458-4120-8c0b-06f1cfb48ef8"/></td>
+       <td width="1%"><img src="https://github.com/byAtulJain/alertify/assets/147311053/a8d9044d-b976-4afb-aa36-382ada69c2c3"/></td>
     </tr>
     <tr>
-      <td width="1%"><img src="https://user-images.githubusercontent.com/72301141/206417565-01bc0f8c-27a4-4648-a845-0a7c29a957c2.jpg"/></td>
-      <td width="1%"><img src="https://user-images.githubusercontent.com/72301141/206417707-be626efa-6bed-41be-a932-4e7a5aa22039.jpg"/></td>
-       <td width="1%"><img src="https://user-images.githubusercontent.com/72301141/206417743-8a51d828-efe0-4d3e-9f6b-5b16a4f3b086.jpg"/></td>
+      <td width="1%"><img src="https://github.com/byAtulJain/alertify/assets/147311053/e32cc9d9-d5a8-4ee5-adc2-c47d87a4d7ff"/></td>
+      <td width="1%"><img src="https://github.com/byAtulJain/alertify/assets/147311053/8d75eb12-bf43-4396-a09b-70fabd7f354d"/></td>
+       <td width="1%"><img src="https://github.com/byAtulJain/alertify/assets/147311053/8cfd1233-9b39-457d-939a-f3bd6529485e"/></td>
     </tr>
     <tr>
-      <td width="1%"><img src="https://user-images.githubusercontent.com/72301141/206417756-a979fefe-23f8-4a21-bfa5-7e45745c19f0.jpg"/></td>
-      <td width="1%"><img src="https://user-images.githubusercontent.com/72301141/206417834-25dc5bb4-c099-4d90-81a6-eb4e469bc40e.jpg"/></td>
-       <td width="1%"><img src="https://user-images.githubusercontent.com/72301141/206417851-2ee18113-04bf-48ae-bf83-d377b4517742.jpg"/></td>
+      <td width="1%"><img src="https://github.com/byAtulJain/alertify/assets/147311053/71d28f08-c948-41dc-a06c-9ebfb11af664"/></td>
+      <td width="1%"><img src="https://github.com/byAtulJain/alertify/assets/147311053/0ac7c10b-244b-4f35-8908-60b4e1796823"/></td>
+       <td width="1%"><img src="https://github.com/byAtulJain/alertify/assets/147311053/0117ff5c-7609-4933-bddf-5c66c36c6bb5"/></td>
+    </tr>
+    <tr>
+      <td width="1%"><img src="https://github.com/byAtulJain/alertify/assets/147311053/55f3f4d5-de4a-4f05-8516-76769b6e6d7e"/></td>
+      <td width="1%"><img src="https://github.com/byAtulJain/alertify/assets/147311053/9cf68a8d-99a7-4e58-bdc3-be19065ca524"/></td>
+       <td width="1%"><img src="https://github.com/byAtulJain/alertify/assets/147311053/ea0ee21a-b847-4dff-9c3d-9ce1616736f2"/></td>
     </tr>
   </tbody>
 </table>
