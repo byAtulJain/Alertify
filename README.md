@@ -20,10 +20,6 @@ The "Alertify" app project aims to streamline communication between college facu
 * Engagement
 
 
-## Download Application: 
-
-<a href="https://acrodrive.me/0:/app-releasesss.apk" class="button pill">Click Here</a>
-
 ## Technologies Used:
 
 * Flutter v3.16.8
@@ -31,6 +27,10 @@ The "Alertify" app project aims to streamline communication between college facu
 * IDE - Android Studio Iguana v2023.2.1
 * Firebase (For storing all message and images)
 
+
+## Download Application: 
+
+<a href="https://acrodrive.me/0:/app-releasesss.apk" class="button pill">Click Here</a>
 
 
 ## Screenshots:
