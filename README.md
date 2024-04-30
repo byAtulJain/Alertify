@@ -5,13 +5,10 @@
 ![alertify logo1](https://github.com/byAtulJain/alertify/assets/147311053/d9ae226e-e86f-402d-b061-0c1696874274)
 
 
-## Setup
+## Introduction
 
-Run the following commands from your terminal:
+Introducing "Alertify: Your Comprehensive Broadcast Destination" - the ultimate solution for streamlined communication in college communities. Say goodbye to scattered and repetitive messages across various WhatsApp groups. With Alertify, faculty members can effortlessly deliver all event reminders, and academic updates to students in one centralized platform, ensuring everyone stays informed without the hassle of multiple messaging channels. Stay connected, stay organized, with Alertify.
 
-1) `git clone https://github.com/byAtulJain/alertify` to clone this repository 
-
-2) `flutter pub get` in the project root directory to install all the required dependencies.
 
 
 ## Download Alertify Application: 
