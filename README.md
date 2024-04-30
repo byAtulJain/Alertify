@@ -1,8 +1,9 @@
 # Alertify: Your Comprehensive Broadcast Destination
 
-> is a mobile application designed to centralize communication between college students and faculty members. <br />
+> It is a mobile application designed to centralize communication between college students and faculty members. <br />
 
-![MMAS (820 x 360 px)](https://user-images.githubusercontent.com/72301141/206877824-90492e92-2e2d-4de6-b23c-312f283bdfd6.png)
+![MMAS (820 x 360 px)](![alertify logo1](https://github.com/byAtulJain/alertify/assets/147311053/d9ae226e-e86f-402d-b061-0c1696874274)
+)
 
 
 ## Setup
