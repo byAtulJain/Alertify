@@ -1,4 +1,5 @@
-# MMAS: Money Tracker
+# Alertify: Your Comprehensive Broadcast Destination ![image](https://github.com/byAtulJain/alertify/assets/147311053/6b51087c-5d63-48bc-bc43-1252573e5a1d)
+
 
 > An optimized application for daily expense tracking and finance management. <br />
 
