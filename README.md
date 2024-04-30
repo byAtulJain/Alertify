@@ -60,5 +60,5 @@ The "Alertify" app project aims to streamline communication between college facu
   </tbody>
 </table>
 
-## LICENSE
+## LICENSE:
 Alertify: "Your Comprehensive Broadcast Destination" is [MIT-licensed](https://github.com/byAtulJain/Alertify/blob/master/LICENSE).
