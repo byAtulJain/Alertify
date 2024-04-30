@@ -1,4 +1,4 @@
-![1712578258957](https://github.com/byAtulJain/alertify/assets/147311053/bc091f40-55c9-494e-b6e4-d2196c1037d4)# Alertify: "Your Comprehensive Broadcast Destination"
+# Alertify: "Your Comprehensive Broadcast Destination"
 
 > It is a mobile application designed to centralize communication between college students and faculty members. <br />
 
