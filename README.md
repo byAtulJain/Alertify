@@ -2,9 +2,8 @@
 
 > It is a mobile application designed to centralize communication between college students and faculty members. <br />
 
-![MMAS (820 x 360 px)](![alertify logo1](https://github.com/byAtulJain/alertify/assets/147311053/d9ae226e-e86f-402d-b061-0c1696874274)
+![alertify logo1](https://github.com/byAtulJain/alertify/assets/147311053/d9ae226e-e86f-402d-b061-0c1696874274)
 )
-
 
 ## Setup
 
