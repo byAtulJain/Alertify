@@ -3,20 +3,20 @@
 > It is a mobile application designed to centralize communication between college students and faculty members. <br />
 
 ![alertify logo1](https://github.com/byAtulJain/alertify/assets/147311053/d9ae226e-e86f-402d-b061-0c1696874274)
-)
+
 
 ## Setup
 
 Run the following commands from your terminal:
 
-1) `git clone https://github.com/floranguyen0/mmas-money-tracker` to clone this repository 
+1) `git clone https://github.com/byAtulJain/alertify` to clone this repository 
 
 2) `flutter pub get` in the project root directory to install all the required dependencies.
 
 
-## Download MMAS at:
+## Download Alertify:
 
-https://apps.apple.com/vn/app/mmas-money-tracker/id1582638369
+<a href="#" class="button icon arrowdown">Download Application</a>
 
 
 ## Screenshots
