@@ -14,10 +14,10 @@ Introducing "Alertify: Your Comprehensive Broadcast Destination" - the ultimate 
 
 The "Alertify" app project aims to streamline communication between college faculty members and students by offering a centralized platform for notifications, event reminders, and academic information.
 
-Centralization
-Efficiency
-Accessibility
-Engagement
+* Centralization
+* Efficiency
+* Accessibility
+* Engagement
 
 
 
