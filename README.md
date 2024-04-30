@@ -33,7 +33,7 @@ The "Alertify" app project aims to streamline communication between college facu
 <table width="100%">
   <tbody>
     <tr>
-      <td width="1%"><img src="![1712578258928](https://github.com/byAtulJain/alertify/assets/147311053/427bcf23-86a1-47eb-ad73-f8bee2189f20)"/></td>
+      <td width="1%"><img src="https://github.com/byAtulJain/alertify/assets/147311053/427bcf23-86a1-47eb-ad73-f8bee2189f20"/></td>
       <td width="1%"><img src="https://user-images.githubusercontent.com/72301141/206417378-9da25e84-bf21-401c-bf23-bce3b352311e.jpg"/></td>
        <td width="1%"><img src="https://user-images.githubusercontent.com/72301141/206417548-787625af-f4b1-4c9d-8aac-fa9bd7c47bfb.jpg"/></td>
     </tr>
