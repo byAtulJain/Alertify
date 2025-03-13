@@ -1,10 +1,10 @@
-import 'package:alertify/Screen/Addons/SplashScreen.dart';
-import 'package:firebase_core/firebase_core.dart';
-import 'package:firebase_messaging/firebase_messaging.dart';
-import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
-import 'Screen/Notification_and_Device_Token_Store/deviceTokenStore.dart';
-import 'firebase_options.dart';
+  import 'package:alertify/Screen/Addons/SplashScreen.dart';
+  import 'package:firebase_core/firebase_core.dart';
+  import 'package:firebase_messaging/firebase_messaging.dart';
+  import 'package:flutter/material.dart';
+  import 'package:flutter/services.dart';
+  import 'Screen/Notification_and_Device_Token_Store/deviceTokenStore.dart';
+  import 'firebase_options.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
